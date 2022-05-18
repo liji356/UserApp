@@ -1,4 +1,5 @@
 import React from 'react'
+import Navbar from './Navbar'
 
 const User = () => {
 
@@ -252,6 +253,7 @@ const User = () => {
       ]
   return (
     <div>
+      <Navbar/>
     
         <div className="container">
     <div className="row">
