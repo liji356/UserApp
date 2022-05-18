@@ -15,7 +15,7 @@ const Navbar = () => {
         
           <Link className="nav-link active" to={"/"}>USER</Link>
           
-          <Link className="nav-link active" to={"/"}>Todo</Link>
+          <Link className="nav-link active" to={"/place"}>Todo</Link>
           
         </div>
       </div>
